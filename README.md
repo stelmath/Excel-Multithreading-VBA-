@@ -5,3 +5,5 @@ A modification of the Whac-A-Mole repository, to illustrate multithreading in Ex
 *Inspired by:* [https://analystcave.com/excel-multithreading-vba-vs-vbscript-vs-c-net/](https://analystcave.com/excel-multithreading-vba-vs-vbscript-vs-c-net/) by [AnalystCave](https://github.com/AnalystCave)
 
 **Keep the hammer.vbs file in the same location as the Whack-A-Mole_Multithreading.xlsm file.**
+
+**This will probably not run properly on a Mac, because it does not recognize the "DoEvents" statement.**
